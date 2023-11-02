@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: todo-fullstack-c#",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/todo-fullstack-c#.csproj",
+      "launchConfigurationId": "TargetFramework=;todo_fullstack_c_"
+    }
+  ]
+}
